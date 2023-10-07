@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "255103420066",
+    "firebase_url": "https://smart-farming-6a1b6-default-rtdb.firebaseio.com",
+    "project_id": "smart-farming-6a1b6",
+    "storage_bucket": "smart-farming-6a1b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255103420066:android:41811c36d1f11a015979fb",
+        "android_client_info": {
+          "package_name": "com.example.farmingadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "255103420066-jdsoc3ep4gmqijp47s5eonak84ar4k2r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRXfplJVgKTQVNUuhaqhXKLcu9iKL-PcI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "255103420066-jdsoc3ep4gmqijp47s5eonak84ar4k2r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255103420066:android:33d72e8660e0f6a55979fb",
+        "android_client_info": {
+          "package_name": "com.example.smartfarming"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "255103420066-jdsoc3ep4gmqijp47s5eonak84ar4k2r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRXfplJVgKTQVNUuhaqhXKLcu9iKL-PcI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "255103420066-jdsoc3ep4gmqijp47s5eonak84ar4k2r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/smartfarming/app/src/main/res/layout/activity_custom_list_adapter.xml" value="0.25" />
+        <entry key="..\:/smartfarming/app/src/main/res/layout/activity_custom_list_adapter2.xml" value="0.33" />
+        <entry key="..\:/smartfarming/app/src/main/res/layout/activity_fertilizer.xml" value="0.25" />
+        <entry key="..\:/smartfarming/app/src/main/res/layout/activity_info.xml" value="0.25" />
+        <entry key="..\:/smartfarming/app/src/main/res/layout/activity_info_item.xml" value="0.1897644927536232" />
+        <entry key="..\:/smartfarming/app/src/main/res/layout/activity_input_data.xml" value="0.20416666666666666" />
+        <entry key="..\:/smartfarming/app/src/main/res/layout/activity_land_item.xml" value="0.25" />
+        <entry key="..\:/smartfarming/app/src/main/res/layout/activity_login.xml" value="0.20416666666666666" />
+        <entry key="..\:/smartfarming/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/smartfarming/app/src/main/res/layout/activity_new_lands.xml" value="0.18" />
+        <entry key="..\:/smartfarming/app/src/main/res/layout/activity_recycle_land.xml" value="0.18" />
+        <entry key="..\:/smartfarming/app/src/main/res/layout/activity_register.xml" value="0.22" />
+        <entry key="..\:/smartfarming/app/src/main/res/layout/activity_seeds.xml" value="0.24019607843137256" />
+        <entry key="..\:/smartfarming/app/src/main/res/layout/activity_send_mails.xml" value="0.19021739130434784" />
+        <entry key="..\:/smartfarming/app/src/main/res/layout/activity_shop.xml" value="0.25" />
+        <entry key="..\:/smartfarming/app/src/main/res/layout/activity_visit_cultivation.xml" value="0.19010416666666666" />
+        <entry key="..\:/smartfarming/app/src/main/res/layout/activity_water.xml" value="0.20416666666666666" />
+        <entry key="..\:/smartfarming/app/src/main/res/layout/activity_your_oders.xml" value="0.16979166666666667" />
+        <entry key="..\:/smartfarming/app/src/main/res/layout/activity_your_order_item.xml" value="0.25" />
+        <entry key="..\:/smartfarming/app/src/main/res/layout/item.xml" value="0.33" />
+        <entry key="..\:/smartfarming/app/src/main/res/layout/land_info.xml" value="0.22" />
+        <entry key="..\:/smartfarming/app/src/main/res/layout/land_list.xml" value="0.20416666666666666" />
+        <entry key="..\:/smartfarming/app/src/main/res/layout/list_item.xml" value="0.1" />
+        <entry key="..\:/smartfarming/app/src/main/res/menu/munu.xml" value="0.18" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
